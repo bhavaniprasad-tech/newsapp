@@ -1,4 +1,4 @@
-Since you're using **React** in your **News App**, the `README.md` should reflect that. Here’s an updated version of the **News App** `README` with React included:
+
 
 ```markdown
 # News App
